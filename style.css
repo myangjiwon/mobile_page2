@@ -1,3 +1,4 @@
+
 @import url('https://webfontworld.github.io/NexonLv1Gothic/NexonLv1Gothic.css');
 @import url('https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css');
 
@@ -35,7 +36,7 @@ html {
     width: 500;
     top: 100px;
     margin: 0 auto;
-    padding: 20px;
+    padding: 25px;
 
 }
 
@@ -58,13 +59,14 @@ h1, p {
     letter-spacing: 1.5px;
     line-height: 150%;
     font-size: 18px;
+    padding-bottom: 50px;
 
     
     
 }
 
 .google {
-    padding-top: 70px;
+
     margin: 0 auto;
     width: 150px;
     display: block;
@@ -73,9 +75,10 @@ h1, p {
 
 
 .appstore {
-    padding-bottom: 20px;
+
     margin: 0 auto;
     width: 150px;
+    
 }
 
 
@@ -101,14 +104,14 @@ h1, p {
 
     .google {
         width: 150px;
-        padding-top: 40px;
-        padding-bottom: 30px;
+        padding-top: 0px;
+        padding-bottom: 0px;
     }
     
 
     .appstore {
         width: 150px;
-        padding-top: 40px;
+        padding-top: 0px;
         padding-bottom: 30px;
     }
 }
